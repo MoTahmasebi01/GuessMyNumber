@@ -1,2 +1,2 @@
-# GuessMyNumber.github.io
+# GuessMyNumber
 https://GuessMyNumberGameByMo.netlify.app/
